@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/avujain3705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avujain3705" height="30" width="40" /></a>
 <a href="https://instagram.com/avujain3705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avujain3705" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/avujain3705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="avujain3705" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/avantjain3705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="avujain3705" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/avujain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avujain" height="30" width="40" /></a>
 </p>
 
